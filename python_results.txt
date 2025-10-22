@@ -1,0 +1,64 @@
+
+=== Matrix size: 64 x 64 ===
+Run 1: 0.0 s
+Run 2: 0.0 s
+Run 3: 0.0 s
+Run 4: 0.0 s
+Run 5: 0.0 s
+Mean (64x64): 0.0 s
+
+=== Matrix size: 128 x 128 ===
+Run 1: 0.001 s
+Run 2: 0.0 s
+Run 3: 0.001 s
+Run 4: 0.0 s
+Run 5: 0.0 s
+Mean (128x128): 0.0 s
+
+=== Matrix size: 256 x 256 ===
+Run 1: 0.001 s
+Run 2: 0.001 s
+Run 3: 0.0 s
+Run 4: 0.002 s
+Run 5: 0.001 s
+Mean (256x256): 0.001 s
+
+=== Matrix size: 512 x 512 ===
+Run 1: 0.004 s
+Run 2: 0.006 s
+Run 3: 0.003 s
+Run 4: 0.002 s
+Run 5: 0.004 s
+Mean (512x512): 0.004 s
+
+=== Matrix size: 768 x 768 ===
+Run 1: 0.008 s
+Run 2: 0.008 s
+Run 3: 0.008 s
+Run 4: 0.007 s
+Run 5: 0.009 s
+Mean (768x768): 0.008 s
+
+=== Matrix size: 1024 x 1024 ===
+Run 1: 0.015 s
+Run 2: 0.014 s
+Run 3: 0.014 s
+Run 4: 0.015 s
+Run 5: 0.014 s
+Mean (1024x1024): 0.014 s
+
+=== Matrix size: 1536 x 1536 ===
+Run 1: 0.051 s
+Run 2: 0.045 s
+Run 3: 0.044 s
+Run 4: 0.046 s
+Run 5: 0.047 s
+Mean (1536x1536): 0.047 s
+
+=== Matrix size: 2048 x 2048 ===
+Run 1: 0.098 s
+Run 2: 0.109 s
+Run 3: 0.097 s
+Run 4: 0.106 s
+Run 5: 0.103 s
+Mean (2048x2048): 0.103 s
